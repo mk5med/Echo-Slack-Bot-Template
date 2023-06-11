@@ -1,0 +1,4 @@
+black
+slack_bolt
+slack_sdk
+python-dotenv
